@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gladys ROCH
+- 👀 I’m interested in concrete application of advanced Data Sciences: Deep Learning, Computer Vision, Reinforcement Learning, Time series modeling, etc.
+- 🌱 I’m currently working at Engie Digital on a predictive maintenance plateform, called Robin Analytics. I build ML Pipelines monitoring thermal assets' health.
+- 📫 How to reach me gladys.roch@4gmail.com
