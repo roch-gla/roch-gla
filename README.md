@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gladys ROCH
 - 👀 I’m interested in concrete application of advanced Data Sciences: Deep Learning, Computer Vision, Reinforcement Learning, Time series modeling, etc.
-- 🌱 I’m currently working at Engie Digital on a predictive maintenance plateform, called Robin Analytics. I build ML Pipelines monitoring thermal assets' health.
-- 📫 How to reach me gladys.roch@4gmail.com
+- 🌱 I’m currently working at Dailymotion as a Machine Learning Engineer. I work on large scale recommender systems to deliver the best videos to Dailymotion's users.
+- 📫 How to reach me: gladys.roch@4gmail.com
